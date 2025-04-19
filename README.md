@@ -14,8 +14,7 @@ This is my first ReactJS project — a static website built for **Royal Klude**,
 ## 🚀 Features
 
 - Component-based layout
-- Smooth scrolling navigation
-- Responsive design
+- Smooth scrolling navigatio
 - Clean UI inspired by keyboard simplicity
 
 ## 📦 Getting Started
