@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h3 {
+    color: #ff914d;
+}
+
+header,
+.navbar {
+    position: fixed;
+    width: 100%;
+    display: flex;
+    padding: 20px 70px;
+    background-color: rgba(0, 0, 0, 0.349);
+    justify-content: space-between;
+    align-items: center;
+    transition: top 0.3s;
+    z-index: 100px;
+}
+
+.Logo {
+    width: 120px;
+}
+
+a {
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+    margin-left: 65px;
+    cursor: pointer;
+}
+
+a:hover,
+a.active {
+    color: #ff914d;
+}
+
+.navbar.hidden {
+    top: -80px;
+    /* Adjust this value based on your navbar height */
+}
+
+.navbar.visible {
+    top: 0;
+}
