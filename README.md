@@ -1,6 +1,6 @@
 # Royal Klude - My First ReactJS Website
 
-![Royal Klude Banner](https://via.placeholder.com/1000x300?text=Royal+Klude+Website) <!-- Replace with your actual image link -->
+![Royal Klude Banner]([https://via.placeholder.com/1000x300?text=Royal+Klude+Website](https://github.com/AlecsDevs/Royal-kludge-Web/blob/9a1f9257fb28cbd0af69317eed1309b666df9825/RoyalKludge-main.png)) <!-- Replace with your actual image link -->
 
 This is my first ReactJS project — a static website built for **Royal Klude**, a concept brand inspired by keyboard aesthetics and modern minimalism. The site showcases products and basic information using reusable components, React state, and smooth navigation.
 
